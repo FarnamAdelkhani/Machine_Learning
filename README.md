@@ -2,7 +2,7 @@
 Farnam Adelkhani</h2>
 
 <center>A collection of machine learning and deep learning training exercises plus recipes.</center>
-<center>![alt text](https://i.imgur.com/lHG8nN5.png)</center>
+![alt text](https://i.imgur.com/lHG8nN5.png)
 
 # Intro to Machine Learning Utilizing scikit-learn and tensorflow in nbviewer:
 Last Edit: April 2019

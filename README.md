@@ -1,4 +1,4 @@
-<h2 align="center">Machine Learning with Python 3.0
+<h2 align="center">Machine Learning with Python 3.0<br>
 Farnam Adelkhani</h2>
 
 A collection of machine learning and deep learning training exercises plus recipes.

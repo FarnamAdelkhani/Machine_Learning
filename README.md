@@ -8,16 +8,16 @@ Farnam Adelkhani</h2>
 ### Intro to Machine Learning Utilizing scikit-learn and tensorflow in nbviewer:
 Last Edit: April 2019 <br>
 https://nbviewer.jupyter.org/github/FarnamAdelkhani/Machine_Learning/blob/master/1__introML.ipynb <br>
-<br>
+
 ### Decision Tree Classifier:
 Last Edit: April 2019 <br>
 https://nbviewer.jupyter.org/github/FarnamAdelkhani/Machine_Learning/blob/master/2__Decision%20Tree%20Classifier.ipynb <br>
 To do: Add visualization of decision tree
-<br>
+
 ### Deep Learning in Python with TensorFlow and Keras:
 Last Edit: April 2019 <br>
 https://nbviewer.jupyter.org/github/FarnamAdelkhani/Machine_Learning/blob/master/3__DL_with_TensorFlow_and_Keras.ipynb <br>
-<br>
+
 ### TensorFlow_for_Poets:
 Last Edit: May 2019 <br>
 https://nbviewer.jupyter.org/github/FarnamAdelkhani/Machine_Learning/blob/master/4__TensorFlow_for_Poets.ipynb <br>

@@ -1,8 +1,8 @@
 <h2 align="center">Machine Learning with Python 3.0<br>
 Farnam Adelkhani</h2>
 
-A collection of machine learning and deep learning training exercises plus recipes.
-![alt text](https://i.imgur.com/lHG8nN5.png)
+<center>A collection of machine learning and deep learning training exercises plus recipes.</center>
+<center>![alt text](https://i.imgur.com/lHG8nN5.png)</center>
 
 # Intro to Machine Learning Utilizing scikit-learn and tensorflow in nbviewer:
 Last Edit: April 2019

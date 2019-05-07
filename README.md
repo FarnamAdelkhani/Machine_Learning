@@ -1,15 +1,12 @@
 <h2 align="center">Machine Learning with Python 3.0<br>
 Farnam Adelkhani</h2>
 
-<center>A collection of machine learning and deep learning training exercises and recipes.</center>
-
+<h4 align="center">A collection of machine learning and deep learning training exercises and recipes.</h4>
 <p align="center">
     <img src="https://i.imgur.com/lHG8nN5.png" alt="centered image" />
 </p>
 
-<h3>Link to Binder:</h3><br>
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FarnamAdelkhani/Machine_Learning/master)
+<b> Link to Binder: </b> &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FarnamAdelkhani/Machine_Learning/master)
 
 
 ### Intro to Machine Learning Utilizing scikit-learn and tensorflow in nbviewer:

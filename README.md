@@ -8,8 +8,6 @@ Farnam Adelkhani</h2>
     <img src="https://i.imgur.com/lHG8nN5.png" alt="centered image" />
 </p>
 
-<b> Link to Binder: </b> &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FarnamAdelkhani/Machine_Learning/master)
-
 
 ### Intro to Machine Learning Utilizing scikit-learn and tensorflow in nbviewer:
 Last Edit: April 2019 <br>

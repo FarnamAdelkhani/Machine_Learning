@@ -1,7 +1,9 @@
 <h2 align="center">Machine Learning with Python 3.0<br>
 Farnam Adelkhani</h2>
 
-<h4 align="center">A collection of machine learning and deep learning training exercises and recipes.</h4>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FarnamAdelkhani/Machine_Learning/master)
+
+<h4 align="center">A collection of machine learning and deep learning training exercises and recipes.<br></h4>
 <p align="center">
     <img src="https://i.imgur.com/lHG8nN5.png" alt="centered image" />
 </p>
